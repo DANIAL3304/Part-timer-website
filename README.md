@@ -1,6 +1,6 @@
-# Part-Timer
+# JobFinder
 
-Part-Timer is a simple job portal web app. Companies post part-time and full-time jobs, job seekers browse and apply for them, and an admin manages the whole system.
+JObFinder is a simple job portal web app. Companies post part-time and full-time jobs, job seekers browse and apply for them, and an admin manages the whole system.
 
 ## What the System Does
 
